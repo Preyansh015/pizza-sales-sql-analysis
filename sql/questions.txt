@@ -1,0 +1,15 @@
+Pizza Sales Data Analysis – Business Questions
+
+1. Retrieve the total number of orders placed.
+2. Calculate the total revenue generated from pizza sales.
+3. Identify the highest-priced pizza.
+4. Identify the most common pizza size ordered.
+5. List the top 5 most ordered pizza types along with their quantities.
+6. Find the total quantity of each pizza category ordered.
+7. Determine order distribution by hour of the day.
+8. Find category-wise distribution of pizzas.
+9. Calculate average pizzas ordered per day.
+10. Top 3 pizza types based on revenue.
+11. Percentage contribution of each pizza to total revenue.
+12. Cumulative revenue over time.
+13. Top 3 pizzas by revenue for each category.
